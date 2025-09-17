@@ -57,4 +57,4 @@ Check out the live demo: **Avengers Initiative** (hosted via Vercel)([avengers-c
 
 The **Avengers Initiative** is a straightforward yet elegant approach to showcasing superhero profiles using HTML and CSS. Ideal as a beginner web project or a foundation for more advanced UI experiments. Want me to help you expand this with interactive effects, responsive layouts, or animations? Let me know!
 
-[1]: https://avengers-card-six.vercel.app/ "AVENGERS INITIATIVE"](https://avengers-card-main-nuapd96rj-anshs-projects-880ee432.vercel.app/
+[1]:https://avengers-card-main.vercel.app/
